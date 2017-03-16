@@ -1,0 +1,20 @@
+INDEX VERSION 1.129+/Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/.metadata/.plugins/org.eclipse.jdt.core
+1970956620.index
+197245242.index
+4226679428.index
+1464696689.index
+4272978785.index
+817970755.index
+57186622.index
+1488852531.index
+565196770.index
+1085684454.index
+1808688374.index
+335112316.index
+370243262.index
+1115892854.index
+978365662.index
+3240201963.index
+1749068198.index
+3810311175.index
+2313545266.index

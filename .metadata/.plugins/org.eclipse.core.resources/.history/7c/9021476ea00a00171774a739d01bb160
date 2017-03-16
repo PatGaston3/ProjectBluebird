@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Project Bluebird</title>
+</head>
+
+
+
+<body>
+	<div ng-view></div>
+</body>
+</html>

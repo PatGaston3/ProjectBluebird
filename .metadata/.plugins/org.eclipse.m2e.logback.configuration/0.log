@@ -2,3 +2,159 @@
 
 2017-03-16 16:59:25,310 [Thread-10] ERROR org.eclipse.jgit.util.FS - xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
 
+2017-03-16 17:13:59,593 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BluebirdJPA:BluebirdJPA:0.0.1-SNAPSHOT @ /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdJPA/pom.xml.
+2017-03-16 17:14:03,259 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BluebirdJPA/src
+2017-03-16 17:14:03,260 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /BluebirdJPA/src overlaps with sources folder /BluebirdJPA/src
+2017-03-16 17:14:03,267 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /BluebirdJPA/src/test/java because it overlaps with /BluebirdJPA/src
+2017-03-16 17:14:03,747 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-03-16 17:14:06,491 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BluebirdJPA:BluebirdJPA:0.0.1-SNAPSHOT @ /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdJPA/pom.xml.
+2017-03-16 17:14:06,981 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BluebirdJPA/src
+2017-03-16 17:14:06,982 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /BluebirdJPA/src overlaps with sources folder /BluebirdJPA/src
+2017-03-16 17:14:06,993 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /BluebirdJPA/src/test/java because it overlaps with /BluebirdJPA/src
+2017-03-16 17:14:07,495 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2017-03-16 17:14:07,639 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:14:07,664 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-16 17:14:07,678 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:14:07,679 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdJPA/src/test/resources
+2017-03-16 17:14:55,106 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: BluebirdJPA:BluebirdJPA:0.0.1-SNAPSHOT @ /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdJPA/pom.xml.
+2017-03-16 17:14:58,077 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:14:58,118 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-16 17:14:58,120 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:14:58,150 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdJPA/src/test/resources
+2017-03-16 17:14:59,885 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:14:59,904 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-03-16 17:14:59,914 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:14:59,915 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdJPA/src/test/resources
+2017-03-16 17:15:08,149 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:15:08,150 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-03-16 17:15:08,151 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:15:08,152 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdJPA/src/test/resources
+2017-03-16 17:16:08,788 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: BluebirdMVC:BluebirdMVC:0.0.1-SNAPSHOT @ /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/pom.xml.
+2017-03-16 17:16:14,304 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BluebirdMVC/src
+2017-03-16 17:16:14,305 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /BluebirdMVC/src/test/java because it overlaps with /BluebirdMVC/src
+2017-03-16 17:16:14,666 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-03-16 17:16:15,121 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: BluebirdMVC:BluebirdMVC:0.0.1-SNAPSHOT @ /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/pom.xml.
+2017-03-16 17:16:17,044 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BluebirdMVC/src
+2017-03-16 17:16:17,045 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /BluebirdMVC/src/test/java because it overlaps with /BluebirdMVC/src
+2017-03-16 17:16:17,181 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for BluebirdMVC
+2017-03-16 17:16:17,217 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2017-03-16 17:16:17,357 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:16:17,369 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/main/resources
+2017-03-16 17:16:17,371 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:16:17,383 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/test/resources
+2017-03-16 17:16:17,384 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of BluebirdMVC
+2017-03-16 17:16:17,385 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for BluebirdMVC
+2017-03-16 17:16:17,416 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.5 is missing, no dependency information available
+2017-03-16 17:16:17,444 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:16:53,444 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: BluebirdMVC:BluebirdMVC:0.0.1-SNAPSHOT @ /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/pom.xml.
+2017-03-16 17:16:58,708 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:16:58,786 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/main/resources
+2017-03-16 17:16:58,788 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:16:58,788 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/test/resources
+2017-03-16 17:16:58,789 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of BluebirdMVC
+2017-03-16 17:16:58,789 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for BluebirdMVC
+2017-03-16 17:16:58,793 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:18:25,313 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:18:25,341 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/main/resources
+2017-03-16 17:18:25,344 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:18:25,356 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/test/resources
+2017-03-16 17:18:29,083 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:18:29,084 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/main/resources
+2017-03-16 17:18:29,088 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:18:29,088 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/test/resources
+2017-03-16 17:18:35,512 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:18:35,512 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/main/resources
+2017-03-16 17:18:35,514 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:18:35,515 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/test/resources
+2017-03-16 17:18:40,954 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:18:40,954 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/main/resources
+2017-03-16 17:18:40,956 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:18:40,958 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/test/resources
+2017-03-16 17:18:59,660 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:18:59,711 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/main/resources
+2017-03-16 17:18:59,713 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:18:59,773 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/test/resources
+2017-03-16 17:19:00,784 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:19:00,785 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/main/resources
+2017-03-16 17:19:00,787 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:19:00,787 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/test/resources
+2017-03-16 17:19:29,145 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:19:29,167 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/main/resources
+2017-03-16 17:19:29,169 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:19:29,170 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/test/resources
+2017-03-16 17:20:17,278 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:20:17,278 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/main/resources
+2017-03-16 17:20:17,280 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:20:17,281 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/test/resources
+2017-03-16 17:22:32,843 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:22:32,876 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/main/resources
+2017-03-16 17:22:32,877 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:22:32,879 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/test/resources
+2017-03-16 17:22:39,978 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:22:39,979 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/main/resources
+2017-03-16 17:22:39,980 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:22:39,981 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/test/resources
+2017-03-16 17:22:48,469 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:22:48,469 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/main/resources
+2017-03-16 17:22:48,473 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:22:48,474 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/test/resources
+2017-03-16 17:23:29,667 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:23:29,668 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/main/resources
+2017-03-16 17:23:29,669 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:23:29,683 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/test/resources
+2017-03-16 17:24:10,079 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:24:10,117 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/main/resources
+2017-03-16 17:24:10,118 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:24:10,119 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/test/resources
+2017-03-16 17:24:20,628 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:24:20,628 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/main/resources
+2017-03-16 17:24:20,630 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:24:20,630 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/test/resources
+2017-03-16 17:25:02,951 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:25:02,952 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/main/resources
+2017-03-16 17:25:02,953 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:25:02,954 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/test/resources
+2017-03-16 17:25:05,468 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:25:05,469 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/main/resources
+2017-03-16 17:25:05,470 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:25:05,471 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/test/resources
+2017-03-16 17:25:34,217 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:25:34,217 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/main/resources
+2017-03-16 17:25:34,219 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:25:34,220 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/test/resources
+2017-03-16 17:25:49,773 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:25:49,774 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/main/resources
+2017-03-16 17:25:49,776 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:25:49,776 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/test/resources
+2017-03-16 17:26:06,537 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:26:06,538 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/main/resources
+2017-03-16 17:26:06,539 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:26:06,540 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/test/resources
+2017-03-16 17:26:27,397 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:26:27,431 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/main/resources
+2017-03-16 17:26:27,432 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:26:27,432 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/test/resources
+2017-03-16 17:26:46,986 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:26:46,987 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/main/resources
+2017-03-16 17:26:46,989 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:26:46,990 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/test/resources
+2017-03-16 17:28:24,059 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:28:24,060 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/main/resources
+2017-03-16 17:28:24,061 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:28:24,062 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/test/resources
+2017-03-16 17:28:49,041 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:28:49,042 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/main/resources
+2017-03-16 17:28:49,044 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:28:49,044 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/test/resources
+2017-03-16 17:28:55,829 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:28:55,872 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/main/resources
+2017-03-16 17:28:55,874 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:28:55,877 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/test/resources
+2017-03-16 17:29:42,156 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:29:42,190 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/main/resources
+2017-03-16 17:29:42,192 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:29:42,193 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/test/resources
+2017-03-16 17:31:14,909 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:31:14,909 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/main/resources
+2017-03-16 17:31:14,911 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-16 17:31:14,911 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/BluebirdMVC/src/test/resources
