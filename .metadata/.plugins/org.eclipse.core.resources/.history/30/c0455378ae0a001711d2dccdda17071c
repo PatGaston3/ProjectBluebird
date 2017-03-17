@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Project Bluebird</title>
+</head>
+<!--  Bootstrap  -->
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+
+<!-- Custom CSS -->
+
+
+<!--  JS plugins  -->
+<script src="js/angular.min.js"></script>
+<script src="js/angular-route.min.js"></script>
+<script src="js/Chart.min.js"></script>
+<script src="js/angular-chart.min.js"></script>
+<script src="app_client/ngApp.js"></script>
+<script src="js/ui-bootstrap-tpls-2.2.0.min.js"></script>
+
+<!--  Controllers  -->
+<script src="app_client/controllers/landingController.js"></script>
+<script src="app_client/controllers/loginController.js"></script>
+<script src="app_client/controllers/logoutController.js"></script>
+<script src="app_client/controllers/profileController.js"></script>
+<script src="app_client/controllers/registerController.js"></script>
+
+
+
+<!--  Filters  -->
+
+
+<!--  Directives  -->
+
+
+<!--  Services  -->
+
+
+<body>
+<h1>FAGGY</h1>
+	<div ng-view></div>
+</body>
+</html>

@@ -1,5 +1,9 @@
 Manifest-Version: 1.0
+<<<<<<< HEAD
+Built-By: stevenadams
+=======
 Built-By: Pat-Levi-Gaston
+>>>>>>> debb3e3c73b90aecdb2a525d582eb1e6d773d002
 Build-Jdk: 1.8.0_91
 Created-By: Maven Integration for Eclipse
 

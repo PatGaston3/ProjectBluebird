@@ -1,2 +1,6 @@
 eclipse.preferences.version=1
+<<<<<<< HEAD
+locationorg.eclipse.jst.server.tomcat.runtime.80=/Users/stevenadams/SD/Tools/apache-tomcat-8.0.36
+=======
 locationorg.eclipse.jst.server.tomcat.runtime.80=/Users/Pat-Levi-Gaston/SD/Tools/apache-tomcat-8.0.36
+>>>>>>> debb3e3c73b90aecdb2a525d582eb1e6d773d002
