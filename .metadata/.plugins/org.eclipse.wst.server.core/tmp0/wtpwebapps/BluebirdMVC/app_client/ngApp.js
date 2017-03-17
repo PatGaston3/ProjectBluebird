@@ -7,6 +7,7 @@ var app = angular.module('ngBB', ['ngRoute', 'chart.js', 'ui.bootstrap'])
 		templateUrl: 'landing.view.html',
 		controller: 'landingController'
 	})
+<<<<<<< HEAD
 	.when('/register',{
 		templateUrl: 'register.view.html',
 		controller: 'registerController'
@@ -23,6 +24,8 @@ var app = angular.module('ngBB', ['ngRoute', 'chart.js', 'ui.bootstrap'])
 		templateUrl: 'logout.view.html',
 		controller: 'logoutController'
 	})
+=======
+>>>>>>> debb3e3c73b90aecdb2a525d582eb1e6d773d002
 	.otherwise({
 	      redirectTo: '/'
 	});

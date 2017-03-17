@@ -124,7 +124,11 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
+<<<<<<< HEAD
       <Context docBase="/Users/stevenadams/ProjectBluebird/ProjectBluebird/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ROOT" path="" reloadable="false"/><Context docBase="/Users/stevenadams/ProjectBluebird/ProjectBluebird/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/BluebirdMVC" path="/BluebirdMVC" reloadable="true" source="org.eclipse.jst.jee.server:BluebirdMVC"/></Host>
+=======
+      <Context docBase="/Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ROOT" path="" reloadable="false"/><Context docBase="/Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/BluebirdMVC" path="/BluebirdMVC" reloadable="true" source="org.eclipse.jst.jee.server:BluebirdMVC"/></Host>
+>>>>>>> debb3e3c73b90aecdb2a525d582eb1e6d773d002
     </Engine>
   </Service>
 </Server>

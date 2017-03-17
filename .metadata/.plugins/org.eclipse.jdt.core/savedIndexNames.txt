@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 INDEX VERSION 1.129+/Users/stevenadams/ProjectBluebird/ProjectBluebird/.metadata/.plugins/org.eclipse.jdt.core
 3670248649.index
 155372221.index
@@ -18,3 +19,45 @@ INDEX VERSION 1.129+/Users/stevenadams/ProjectBluebird/ProjectBluebird/.metadata
 3131291862.index
 1067258947.index
 404199878.index
+=======
+INDEX VERSION 1.129+/Users/Pat-Levi-Gaston/Desktop/ProjectBluebird/.metadata/.plugins/org.eclipse.jdt.core
+1970956620.index
+197245242.index
+3106823451.index
+3026208716.index
+4226679428.index
+566815935.index
+4049629201.index
+1464696689.index
+4272978785.index
+3166186848.index
+3902293772.index
+817970755.index
+3446291907.index
+57186622.index
+1488852531.index
+885049765.index
+1893488613.index
+1854148144.index
+2872188158.index
+4097386653.index
+565196770.index
+1085684454.index
+1808688374.index
+677361136.index
+335112316.index
+1091220482.index
+370243262.index
+1115892854.index
+2019601660.index
+1583654368.index
+978365662.index
+3025738386.index
+3240201963.index
+3030993175.index
+2443850537.index
+1749068198.index
+3810311175.index
+2313545266.index
+2755964311.index
+>>>>>>> debb3e3c73b90aecdb2a525d582eb1e6d773d002
