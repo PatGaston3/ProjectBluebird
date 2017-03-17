@@ -1,0 +1,232 @@
+.loginError {
+	color: red;
+	font-size: 20px;
+}
+
+.warnMe {
+	color: black;
+	font-size: 24px;
+}
+
+.chart-legend li span{
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    margin-right: 5px;
+}
+
+.add-job-subject-header {
+	font-size: 16px;
+	font-weight: bold;
+  	font-style: italic;
+}
+
+.createJobBtns {
+  padding-top: 120px;
+}
+
+.row-centered {
+    text-align:center;
+}
+.col-centered {
+    display:inline-block;
+    float:none;
+    /* reset the text-align */
+    text-align:left;
+    /* inline-block space fix */
+    margin-right:-4px;
+}
+
+#inputJob, inputDesiredSalary {
+  margin-bottom: 10px;
+}
+
+.sizedup {
+	font-size: 16px;
+}
+
+input[type='date'] { 
+	position:relative;
+}
+::-webkit-datetime-edit, ::-webkit-clear-button, ::-webkit-calendar-picker-indicator{position:absolute;}
+::-webkit-clear-button{right:1.54em;}
+::-webkit-inner-spin-button{-webkit-appearance:none; margin:0;}
+::-webkit-calendar-picker-indicator{right:0; padding:.539em .34em;}
+
+#dateLabel {
+	padding-top: 5px;
+    padding-right:0px;
+    padding-bottom: 0px;
+    padding-left: 8px;
+}
+
+
+/*******************************
+***   LOGIN & REGISTER PAGE  ***
+********************************/
+
+.main {
+  background-position: center center;
+  background-size: cover;
+  height: auto;
+  left: 0;
+  min-height: 100%;
+  min-width: 100%;
+  position: absolute;
+  top: 0;
+  width: auto;
+}
+
+.main .main-text {
+  margin-top: 100px;
+  font-family: 'Fantasy', cursive;
+  font-size: 120px;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+  text-align: center;
+  color: white;
+}
+
+.sub-text {
+  font-family: 'Fantasy', cursive;
+  font-size: 30px;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+  text-align: center;
+  color: white;
+}
+
+.noShow:hover {
+	text-decoration: none;
+}
+
+
+/* Small devices (landscape phones, 544px and up) */
+@media (min-width: 544px) { 
+	.vert-center {
+		padding-top: 50%;
+	}
+		.loginfield {
+		padding: 20px 20px;
+	}
+ }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+	.vert-center {
+		padding-top: 50%;
+	}
+		.loginfield {
+		padding: 20px 20px;
+	}
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+	.vert-center {
+		padding-top: 10%;
+	}
+		.loginfield {
+		padding: 20px 20px;
+	}
+
+ }
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+	.vert-center {
+		padding-top: 10%;
+	}
+	.loginfield {
+		padding: 20px 20px;
+	}
+}
+
+.colorMe {
+	color: white;
+}
+
+.validation-notes {
+	color: white;
+}
+ 
+ .main .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #000;
+  opacity: 0.3;
+  filter: alpha(opacity=30);
+  z-index: 1;
+}
+ 
+ .main .layover {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #000;
+  opacity: 0.7;
+  filter: alpha(opacity=30);
+  z-index: 1;
+}
+
+.main .container {
+  position: relative;
+  z-index: 2;
+}
+
+.main a:hover {
+	text-decoration: none;
+}
+
+
+
+/*******************************
+***         HOME PAGE        ***
+********************************/
+
+.central-buttons {
+	font-size: 22px;
+}
+
+#addJob {
+	background-color: #577D51;
+}
+
+#viewJobs {
+	background-color: #9c3025;
+	color: white;
+}
+
+.home-accordion-panels {
+	color: black;
+}
+
+
+/*******************************
+***         JOB PAGE         ***
+********************************/
+
+.jobInfo {
+	font-weight: bold;
+	text-decoration: underline;
+	font-size: 16px;
+}
+
+.noteBox {
+	background-color: rgba(0, 0, 0, 0.5);
+	color: white;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 18px;
+	pointer-events: none;
+	
+}
+
+hr.style-two {
+    border: 0;
+    height: 2px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5), grey, rgba(0, 0, 0, 0.5));
+}
+

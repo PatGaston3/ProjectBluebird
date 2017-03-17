@@ -1,0 +1,55 @@
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    color: white;
+}
+
+.portfolio-item {
+    margin-bottom: 25px;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+.transparent-nav {
+	background-color: transparent;
+	color: black;
+}
+
+.navbar .transparent-nav {
+	color: black;
+}
+
+a {
+	color: white;
+}
+
+.jobCounter {
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 5px;
+	background-color:rgba(0, 0, 0, 0.5);
+	color: white;
+}
+
+.zero {
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 5px;
+	background-color:red;
+	color: white;
+}
+
+.box {
+    width: auto;
+    height: auto;
+/*     margin: 20px;
+    background-color: #000; */
+    box-shadow: 0 0 10px 6px #000;
+}
+
+.img-responsive {
+height: 120px;
+width: auto;
+overflow: hidden; 
+}
